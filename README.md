@@ -1,4 +1,4 @@
-# CLTrader
+# PMFundManagerConsole
 Command line Pseudo Fund management console for Pseudo Markets
 
 ## Requirements 
@@ -7,7 +7,7 @@ Command line Pseudo Fund management console for Pseudo Markets
 * Pseudo Markets NuGet Repository as a NuGet Source: https://nuget.pseudomarkets.live/v3/index.json
 
 ## Usage
-Coming soon...
+Details will be available soon.
 
 
 
